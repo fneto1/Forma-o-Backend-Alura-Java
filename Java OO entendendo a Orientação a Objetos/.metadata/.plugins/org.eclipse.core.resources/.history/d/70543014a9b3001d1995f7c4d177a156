@@ -1,0 +1,11 @@
+package bytebank_herdado_conta;
+
+public class SaldoInsuficienteException extends RuntimeException {
+	
+	public SaldoInsuficienteException(String msg) {
+		super(msg);
+	}
+
+}
+
+//acredito que o super va acessar de quem ele herda, o RuntimeException

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Programação\Curso Alura\backend\Java JRE e JDK compile e execute o seu programa\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3299120157.index
+3959137331.index
+903016873.index
